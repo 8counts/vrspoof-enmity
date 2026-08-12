@@ -1,7 +1,0 @@
-{
-    "name": "VRSpoof",
-    "description": "Spoofs Discord client to VR Headset",
-    "authors": [{"name": "8counts", "id": "0"}],
-    "main": "index.js",
-    "version": "1.0.0"
-}
