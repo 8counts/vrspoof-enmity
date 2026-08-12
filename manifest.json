@@ -1,0 +1,12 @@
+{
+    "name": "VRSpoof",
+    "description": "Spoofs your Discord client to appear as a VR Headset — automatically active on load, no commands needed.",
+    "authors": [
+        {
+            "name": "you",
+            "id": "000000000000000000"
+        }
+    ],
+    "main": "index.tsx",
+    "hash": ""
+}
